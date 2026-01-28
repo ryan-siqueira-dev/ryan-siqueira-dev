@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ryan
 
-<!--
-**Ryans-zika/Ryans-zika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou interessado em tecnologia, programação e produtividade.
+Gosto de sistemas simples, automação e aprender como as coisas funcionam.
 
-Here are some ideas to get you started:
+## 🧠 Atualmente estudando
+- Programação e sistemas
+- Git, Linux e boas práticas
+- IA aplicada à codificação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack / Ferramentas
+- Linux
+- Git & GitHub
+- Python / JavaScript
+- Obsidian / Notion
+
+## 🎯 Interesses
+- Sistemas de produtividade
+- Segurança e privacidade
+- Open source
