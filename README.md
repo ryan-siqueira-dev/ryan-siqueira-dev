@@ -1,17 +1,21 @@
 <h1 align="center">Hey, I'm Ryan 👋</h1>
 
 <p align="center">
-  <em>Software Engineering student • Always learning • Building cool stuff</em>
+  <em>Estudante de Engenharia de Software • Sempre aprendendo • Construindo coisas legais</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ryan-siqueira-dev&color=0f3460&style=flat-square&label=Visitas+ao+perfil" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mim
 
-- 🎓 Studying **Software Engineering**
-- 🌱 Currently deepening my knowledge in **JavaScript**, **Python** and **Linux**
-- 🔨 Learning by doing — one project at a time
-- 💡 Passionate about turning ideas into real software
+- 🎓 Estudando **Engenharia de Software**
+- 🌱 Aprofundando conhecimentos em **JavaScript**, **Python** e **Linux**
+- 🔨 Aprendendo na prática — um projeto de cada vez
+- 💡 Apaixonado por transformar ideias em software real
 
 ---
 
@@ -28,23 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryans-zika&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryans-zika&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryans-zika&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 🚀 Currently Learning
+## 🚀 Atualmente aprendendo
 
 ```text
 JavaScript  ████████████░░░░  75%
